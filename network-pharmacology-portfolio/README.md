@@ -17,21 +17,4 @@ Repository ini berisi kumpulan tugas dan project analisis *network pharmacology*
 - **Cytoscape** (cytoHubba) — visualisasi network dan identifikasi hub protein
 - **ShinyGO / Metascape** — enrichment analysis (GO & KEGG pathway)
 
-## Struktur Folder per Week
 
-Setiap folder week mengikuti struktur berikut:
-
-```
-week-XX-topik/
-├── README.md                  # Ringkasan & ketentuan tugas
-├── 01_compound_identification/
-├── 02_target_prediction/
-├── 03_disease_targets/
-├── 04_overlapping_targets/
-├── 05_ppi_network/
-├── 06_cytoscape_visualization/
-├── 07_hub_proteins/
-├── 08_enrichment_analysis/
-├── 09_workflow_diagram/
-└── [NomorKelompok]_[NamaPeserta]_WeekXX.md   # Laporan interpretasi hasil
-```
