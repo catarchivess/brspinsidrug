@@ -13,6 +13,6 @@ Replikasi workflow molecular docking: memvalidasi interaksi antara hub gene hasi
 
 ## Isi Folder
 
-- `NomorKelompokBelajar_CalistaAqilahTsabitah_Week3.pdf` / `.docx` — laporan lengkap (info protein-ligan, konfigurasi docking, hasil binding affinity, visualisasi, interpretasi)
+- `5_CalistaAqilahTsabitah_Week3.pdf` / `.docx` — laporan lengkap (info protein-ligan, konfigurasi docking, hasil binding affinity, visualisasi, interpretasi)
 - `data/CurPockets_info_CTNNB1.txt` — output mentah deteksi cavity dari CB-Dock2
 - `visuals/` — screenshot visualisasi 3D pose docking (representasi permukaan & cartoon)
