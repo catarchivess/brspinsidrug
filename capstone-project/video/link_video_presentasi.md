@@ -1,6 +1,6 @@
 # Video Mini Presentasi — Capstone Project
 
-**Link:** [isi link YouTube/Google Drive di sini setelah video diupload]
+**Link:** https://drive.google.com/drive/folders/16HceveVrfAxG6Fy6x5btWt1nc_JecC3J?usp=sharing
 
 **Durasi:** maksimal 7 menit
 
